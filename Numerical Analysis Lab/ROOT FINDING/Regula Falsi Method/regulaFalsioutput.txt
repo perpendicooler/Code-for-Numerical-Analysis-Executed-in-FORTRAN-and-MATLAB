@@ -1,0 +1,9 @@
+ Total Steps =           1 The root is  0.735758901    
+ Total Steps =           2 The root is  0.839520812    
+ Total Steps =           3 The root is  0.851183891    
+ Total Steps =           4 The root is  0.852451563    
+ Total Steps =           5 The root is  0.852588832    
+ Total Steps =           6 The root is  0.852603674    
+ Total Steps =           7 The root is  0.852605283    
+ Total Steps =           8 The root is  0.852605402    
+ Total Steps =           9 The root is  0.852605462    

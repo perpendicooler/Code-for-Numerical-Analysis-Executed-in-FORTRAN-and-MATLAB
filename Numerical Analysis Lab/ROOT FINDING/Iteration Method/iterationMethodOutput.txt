@@ -1,0 +1,17 @@
+ number of steps =            1  The root x is :   0.367879450    
+ number of steps =            2  The root x is :   0.692200601    
+ number of steps =            3  The root x is :   0.500473499    
+ number of steps =            4  The root x is :   0.606243551    
+ number of steps =            5  The root x is :   0.545395792    
+ number of steps =            6  The root x is :   0.579612315    
+ number of steps =            7  The root x is :   0.560115457    
+ number of steps =            8  The root x is :   0.571143091    
+ number of steps =            9  The root x is :   0.564879358    
+ number of steps =           10  The root x is :   0.568428695    
+ number of steps =           11  The root x is :   0.566414773    
+ number of steps =           12  The root x is :   0.567556620    
+ number of steps =           13  The root x is :   0.566908896    
+ number of steps =           14  The root x is :   0.567276239    
+ number of steps =           15  The root x is :   0.567067921    
+ number of steps =           16  The root x is :   0.567186058    
+ number of steps =           17  The root x is :   0.567119062    

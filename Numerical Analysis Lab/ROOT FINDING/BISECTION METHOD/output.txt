@@ -1,0 +1,16 @@
+ Total Steps =           1 The root is  0.500000000    
+ Total Steps =           2 The root is  0.750000000    
+ Total Steps =           3 The root is  0.625000000    
+ Total Steps =           4 The root is  0.562500000    
+ Total Steps =           5 The root is  0.593750000    
+ Total Steps =           6 The root is  0.578125000    
+ Total Steps =           7 The root is  0.570312500    
+ Total Steps =           8 The root is  0.566406250    
+ Total Steps =           9 The root is  0.568359375    
+ Total Steps =          10 The root is  0.567382812    
+ Total Steps =          11 The root is  0.566894531    
+ Total Steps =          12 The root is  0.567138672    
+ Total Steps =          13 The root is  0.567260742    
+ Total Steps =          14 The root is  0.567199707    
+ Total Steps =          15 The root is  0.567169189    
+ Total Steps =          16 The root is  0.567153931    

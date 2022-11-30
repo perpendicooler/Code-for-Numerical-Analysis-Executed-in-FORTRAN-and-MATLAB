@@ -1,0 +1,3 @@
+ Number of steps            1  the root x is =   2.09999990    
+ Number of steps            2  the root x is =   2.09456801    
+ Number of steps            3  the root x is =   2.09455156    

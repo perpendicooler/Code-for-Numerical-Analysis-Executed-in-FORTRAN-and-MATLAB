@@ -1,0 +1,15 @@
+ the functional value of point  0.200000003     =   3.02951002    
+ the functional value of point  0.300000012     =   2.84935188    
+ the functional value of point  0.399999976     =   2.79753375    
+ the functional value of point  0.500000000     =   2.82129383    
+ the functional value of point  0.599999964     =   2.89758682    
+ the functional value of point  0.699999988     =   3.01464534    
+ the functional value of point  0.799999952     =   3.16604042    
+ the functional value of point  0.899999917     =   3.34829044    
+ the functional value of point  0.999999940     =   3.55975270    
+ the functional value of point   1.10000002     =   3.80006337    
+ the functional value of point   1.19999993     =   4.06983423    
+ the functional value of point   1.29999995     =   4.37049055    
+ the functional value of point   1.39999998     =   4.70417786    
+ The value of the of  integration by weddles  rule is    4.05097532    
+the value with 5 decimal point   4.05098
