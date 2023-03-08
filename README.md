@@ -1,6 +1,6 @@
 # Numerical Methods
 
-This is a Git repository containing code for a numerical analysis lab using Fortran. The accompanying PDF file provides a comprehensive guide to the laboratory, which covers various numerical techniques for solving mathematical problems. The Fortran code in this repository provides examples of how to implement these techniques in practice, making it an ideal resource for students or professionals in the field of numerical analysis. The code is well-commented and thoroughly tested, ensuring its accuracy and reliability
+This is a Git repository containing code for a numerical analysis lab using Fortran.Some of the system of linear equation are containg code using MATLAB The accompanying PDF file provides a comprehensive guide to the laboratory, which covers various numerical techniques for solving mathematical problems. The Fortran code in this repository provides examples of how to implement these techniques in practice, making it an ideal resource for students or professionals in the field of numerical analysis. The code is well-commented and thoroughly tested, ensuring its accuracy and reliability
 
 ## Contents
 ## 1.Root Findings
