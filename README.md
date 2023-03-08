@@ -29,4 +29,7 @@ This is a Git repository containing code for a numerical analysis lab using Fort
 ## 5.System of linear Equation
   1.Gauss Elimination Method\
   2.Gauss Jordan Method\
-  3.Gauss Seidal Method
+  3.Gauss Seidal Method\
+  4.Gauss Jacobi Method\
+  6.LU-Decompostion Method\
+  7.Tri-diagonal System
