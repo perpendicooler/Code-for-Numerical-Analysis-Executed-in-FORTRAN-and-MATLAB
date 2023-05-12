@@ -1,6 +1,6 @@
 # Numerical Methods
 
-This is a Git repository containing code for a numerical analysis lab using Fortran.Some of the system of linear equation are containg code using MATLAB The accompanying PDF file provides a comprehensive guide to the laboratory, which covers various numerical techniques for solving mathematical problems. The Fortran code in this repository provides examples of how to implement these techniques in practice, making it an ideal resource for students or professionals in the field of numerical analysis. The code is well-commented and thoroughly tested, ensuring its accuracy and reliability
+This is a Git repository containing code for a numerical analysis lab using Fortran and MATLAB.Some of the system of linear equation are containg code using MATLAB The accompanying PDF file provides a comprehensive guide to the laboratory, which covers various numerical techniques for solving mathematical problems. The Fortran code in this repository provides examples of how to implement these techniques in practice, making it an ideal resource for students or professionals in the field of numerical analysis. The code is well-commented and thoroughly tested, ensuring its accuracy and reliability
 
 ## Contents
 ## 1.Root Findings
@@ -20,7 +20,8 @@ This is a Git repository containing code for a numerical analysis lab using Fort
   1.Trapezoidal Rule\
   2.Simpson's 1/3 rule\
   3.Simpson's 3/8 rule\
-  4.Weddles's Rule
+  4.Weddles's Rule\
+  5.Gauss-Legendre (2 and 3 point formula)
   
 ## 4.Numerical Differentiation
   1.Forward Differentiation\
@@ -33,3 +34,5 @@ This is a Git repository containing code for a numerical analysis lab using Fort
   4.Gauss Jacobi Method\
   6.LU-Decompostion Method\
   7.Tri-diagonal System
+  ## 6.Mathematical Methods (Laplace and Fourier)
+  
