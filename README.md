@@ -2,6 +2,29 @@
 
 This is a Git repository containing code for a numerical analysis lab using Fortran and MATLAB.Some of the system of linear equation are containg code using MATLAB The accompanying PDF file provides a comprehensive guide to the laboratory, which covers various numerical techniques for solving mathematical problems. The Fortran code in this repository provides examples of how to implement these techniques in practice, making it an ideal resource for students or professionals in the field of numerical analysis. The code is well-commented and thoroughly tested, ensuring its accuracy and reliability
 
+
+  <p align="center">
+    <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-red">
+      <img src="https://img.shields.io/badge/Status-complete-red"/>
+    </a>
+    <a href="https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet">
+      <img src="https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet"/>
+    </a>
+    <a href="https://img.shields.io/badge/License-MIT-orange">
+      <img alt="License" src="https://img.shields.io/badge/License-MIT-orange" />
+    </a>
+    <a href="https://img.shields.io/badge/Grade-A%2B-yellowgreen">
+      <img alt="Grade" src="https://img.shields.io/badge/Grade-A%2B-yellowgreen" />
+    </a>
+    <br />
+  <h3 align="center">Built With</h3>
+  <p align="center">
+    <a href="https://www.mathworks.com/">
+      <img src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg"/>
+    </a>
+  </p>
+</p>
+
 ## Contents
 ## 1.Root Findings
   1.Bisection Method\
